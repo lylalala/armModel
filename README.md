@@ -17,7 +17,7 @@
 - mainForStatistics.m：相关统计
 - mainForVisualization.m： 可视化的主代码
 - 运行mainForVisualization.m后的结果：
-![example](https://github.com/lylalala/armModelUsingDH/example.jpg)
+![example](https://github.com/lylalala/armModelUsingDH/master/example.jpg)
 </br>
 </br>
 
